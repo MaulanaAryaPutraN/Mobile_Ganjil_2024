@@ -1,0 +1,2 @@
+2. Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan!
+-  Karena dart merupakan bahasa pemrograman dari flutter sehingga kita harus memahami dulu bahasa pemrograman dart agar kita dapat lebih mudah untuk menggunakan framework flutter
